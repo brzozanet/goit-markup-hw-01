@@ -1,2 +1,4 @@
-# goit-markup-hw-01
- 
+# Kurs Full Stack Developer Go IT
+# HTML+CSS Poland
+# Moduł 1 HTML 
+# Zadanie domowe
